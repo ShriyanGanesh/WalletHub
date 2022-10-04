@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64425" started-at="2021-12-03T12:10:21Z" finished-at="2021-12-03T12:11:26Z">
+    <groups>
+    </groups>
+    <test name="Facebook login" duration-ms="25306" started-at="2021-12-03T12:10:21Z" finished-at="2021-12-03T12:10:47Z">
+      <class name="assignment.wallethub.FacebookloginTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:assignment.wallethub.FacebookloginTest@48793bef]" name="initialize" is-config="true" duration-ms="4073" started-at="2021-12-03T17:40:21Z" finished-at="2021-12-03T17:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePagenavigation()[pri:0, instance:assignment.wallethub.FacebookloginTest@48793bef]" name="basePagenavigation" duration-ms="16952" started-at="2021-12-03T17:40:26Z" finished-at="2021-12-03T17:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePagenavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:assignment.wallethub.FacebookloginTest@48793bef]" name="teardown" is-config="true" duration-ms="4259" started-at="2021-12-03T17:40:43Z" finished-at="2021-12-03T17:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- assignment.wallethub.FacebookloginTest -->
+    </test> <!-- Facebook login -->
+    <test name="Wallethubreview" duration-ms="38730" started-at="2021-12-03T12:10:47Z" finished-at="2021-12-03T12:11:26Z">
+      <class name="assignment.wallethub.WallethubReviewTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:assignment.wallethub.WallethubReviewTest@4397ad89]" name="initialize" is-config="true" duration-ms="4478" started-at="2021-12-03T17:40:47Z" finished-at="2021-12-03T17:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePagenavigation()[pri:0, instance:assignment.wallethub.WallethubReviewTest@4397ad89]" name="basePagenavigation" duration-ms="33827" started-at="2021-12-03T17:40:52Z" finished-at="2021-12-03T17:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePagenavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:assignment.wallethub.WallethubReviewTest@4397ad89]" name="teardown" is-config="true" duration-ms="424" started-at="2021-12-03T17:41:25Z" finished-at="2021-12-03T17:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- assignment.wallethub.WallethubReviewTest -->
+    </test> <!-- Wallethubreview -->
+  </suite> <!-- Suite -->
+</testng-results>

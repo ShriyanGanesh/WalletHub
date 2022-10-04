@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52951" started-at="2021-12-03T17:33:18 IST" finished-at="2021-12-03T17:34:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52951" started-at="2021-12-03T17:33:18 IST" finished-at="2021-12-03T17:34:11 IST">
+      <class name="assignment.wallethub.WallethubReviewTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:assignment.wallethub.WallethubReviewTest@2e1d27ba]" name="initialize" is-config="true" duration-ms="4520" started-at="2021-12-03T17:33:18 IST" finished-at="2021-12-03T17:33:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePagenavigation()[pri:0, instance:assignment.wallethub.WallethubReviewTest@2e1d27ba]" name="basePagenavigation" duration-ms="47939" started-at="2021-12-03T17:33:23 IST" finished-at="2021-12-03T17:34:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePagenavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:assignment.wallethub.WallethubReviewTest@2e1d27ba]" name="teardown" is-config="true" duration-ms="447" started-at="2021-12-03T17:34:11 IST" finished-at="2021-12-03T17:34:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- assignment.wallethub.WallethubReviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

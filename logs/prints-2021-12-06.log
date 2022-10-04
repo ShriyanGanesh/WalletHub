@@ -1,0 +1,8 @@
+17:46:55.827 [main] INFO  resource.BaseTest - Driver initialized
+17:46:59.540 [main] INFO  resource.BaseTest - Navigated to homepage
+17:46:59.952 [main] INFO  resource.BaseTest - Signed in to facebook page
+17:47:09.222 [main] INFO  resource.BaseTest - Updated Status. Passing Test!
+17:47:15.961 [main] INFO  resource.BaseTest - Driver initialized
+17:47:22.331 [main] INFO  resource.BaseTest - Navigated to homepage
+17:47:35.458 [main] INFO  resource.BaseTest - Signed in to walllethub page
+17:47:38.064 [main] INFO  resource.BaseTest - Review updated

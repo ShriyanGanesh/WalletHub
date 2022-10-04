@@ -1,0 +1,4 @@
+17:47:48.726 [main] INFO  resource.BaseTest - Successfully updated the review. PassingTest!
+11:42:58.662 [main] INFO  resource.BaseTest - Driver initialized
+11:43:00.990 [main] INFO  resource.BaseTest - Navigated to homepage
+11:43:01.263 [main] INFO  resource.BaseTest - Signed in to facebook page
